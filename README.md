@@ -1,6 +1,6 @@
 ### Curated lists
-- [awesome pytorch list] (https://github.com/bharathgs/Awesome-pytorch-list)
-- [the-incredible-pytorch] (https://github.com/ritchieng/the-incredible-pytorch)
+- [awesome pytorch list](https://github.com/bharathgs/Awesome-pytorch-list)
+- [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch)
 
 ### Reference Papers
 
