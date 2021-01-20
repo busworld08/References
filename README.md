@@ -53,6 +53,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 35. [MMPose](https://github.com/open-mmlab/mmpose): MMPose is a pose estimation toolbox and benchmark, a part of the [OpenMMLab project](https://open-mmlab.github.io/).
 36. [lightly](https://github.com/lightly-ai/lightly) - Lightly is a computer vision framework for self-supervised learning.
 
+### Fastai:
 
 ### To be classified:
 
